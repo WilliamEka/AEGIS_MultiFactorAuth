@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620691224915",
+    "firebase_url": "https://aegis-proto5-c992e.firebaseio.com",
+    "project_id": "aegis-proto5-c992e",
+    "storage_bucket": "aegis-proto5-c992e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620691224915:android:820b4bbacb9e73b2",
+        "android_client_info": {
+          "package_name": "com.example.android.aegis_proto5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620691224915-ufkqm262149o9qu4nb22jnc9k9aq19a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVxjCXrm0fGPkxzDuQuxho36T1ec5B1G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620691224915-ufkqm262149o9qu4nb22jnc9k9aq19a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
